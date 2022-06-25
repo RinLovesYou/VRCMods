@@ -1,0 +1,9 @@
+C:\Users\sarah\source\repos\VRCModsRin\VRCMods\Output\Debug\net472\MyMod.dll
+C:\Users\sarah\source\repos\VRCModsRin\VRCMods\Output\Debug\net472\MyMod.pdb
+C:\Users\sarah\source\repos\VRCModsRin\VRCMods\MyMod\obj\Debug\net472\MyMod.csproj.AssemblyReference.cache
+C:\Users\sarah\source\repos\VRCModsRin\VRCMods\MyMod\obj\Debug\net472\MyMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah\source\repos\VRCModsRin\VRCMods\MyMod\obj\Debug\net472\MyMod.AssemblyInfoInputs.cache
+C:\Users\sarah\source\repos\VRCModsRin\VRCMods\MyMod\obj\Debug\net472\MyMod.AssemblyInfo.cs
+C:\Users\sarah\source\repos\VRCModsRin\VRCMods\MyMod\obj\Debug\net472\MyMod.csproj.CoreCompileInputs.cache
+C:\Users\sarah\source\repos\VRCModsRin\VRCMods\MyMod\obj\Debug\net472\MyMod.dll
+C:\Users\sarah\source\repos\VRCModsRin\VRCMods\MyMod\obj\Debug\net472\MyMod.pdb

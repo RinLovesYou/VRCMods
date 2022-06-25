@@ -1,0 +1,12 @@
+C:\Users\sarah\source\repos\VRCModsRin\VRCMods\Output\Debug\net6\CalmDown.deps.json
+C:\Users\sarah\source\repos\VRCModsRin\VRCMods\Output\Debug\net6\CalmDown.dll
+C:\Users\sarah\source\repos\VRCModsRin\VRCMods\Output\Debug\net6\CalmDown.pdb
+C:\Users\sarah\source\repos\VRCModsRin\VRCMods\CalmDown\obj\Debug\net6\CalmDown.csproj.AssemblyReference.cache
+C:\Users\sarah\source\repos\VRCModsRin\VRCMods\CalmDown\obj\Debug\net6\CalmDown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah\source\repos\VRCModsRin\VRCMods\CalmDown\obj\Debug\net6\CalmDown.AssemblyInfoInputs.cache
+C:\Users\sarah\source\repos\VRCModsRin\VRCMods\CalmDown\obj\Debug\net6\CalmDown.AssemblyInfo.cs
+C:\Users\sarah\source\repos\VRCModsRin\VRCMods\CalmDown\obj\Debug\net6\CalmDown.csproj.CoreCompileInputs.cache
+C:\Users\sarah\source\repos\VRCModsRin\VRCMods\CalmDown\obj\Debug\net6\CalmDown.dll
+C:\Users\sarah\source\repos\VRCModsRin\VRCMods\CalmDown\obj\Debug\net6\refint\CalmDown.dll
+C:\Users\sarah\source\repos\VRCModsRin\VRCMods\CalmDown\obj\Debug\net6\CalmDown.pdb
+C:\Users\sarah\source\repos\VRCModsRin\VRCMods\CalmDown\obj\Debug\net6\ref\CalmDown.dll
