@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalmDown", "CalmDown\CalmDown.csproj", "{0A44DDA1-8639-438F-A17F-05BA33DF17B9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VRDesktopModLoadSeparator", "ModLoadSeparator\VRDesktopModLoadSeparator.csproj", "{7AC12019-230D-4135-9EBD-9D1C4BF20722}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModLoadSeparator", "ModLoadSeparator\ModLoadSeparator.csproj", "{7AC12019-230D-4135-9EBD-9D1C4BF20722}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
