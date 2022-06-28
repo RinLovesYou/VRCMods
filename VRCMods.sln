@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalmDown", "CalmDown\CalmDown.csproj", "{0A44DDA1-8639-438F-A17F-05BA33DF17B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WackyLoading", "WackyLoading\WackyLoading.csproj", "{7DC8BCEC-C989-49D6-91FB-2553CF52945D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VRDesktopModLoadSeparator", "ModLoadSeparator\VRDesktopModLoadSeparator.csproj", "{7AC12019-230D-4135-9EBD-9D1C4BF20722}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{0A44DDA1-8639-438F-A17F-05BA33DF17B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A44DDA1-8639-438F-A17F-05BA33DF17B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A44DDA1-8639-438F-A17F-05BA33DF17B9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7DC8BCEC-C989-49D6-91FB-2553CF52945D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7DC8BCEC-C989-49D6-91FB-2553CF52945D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7DC8BCEC-C989-49D6-91FB-2553CF52945D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7DC8BCEC-C989-49D6-91FB-2553CF52945D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AC12019-230D-4135-9EBD-9D1C4BF20722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC12019-230D-4135-9EBD-9D1C4BF20722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC12019-230D-4135-9EBD-9D1C4BF20722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC12019-230D-4135-9EBD-9D1C4BF20722}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -5,9 +5,9 @@ using System.Linq;
 
 namespace VRCMods
 {
-    public class WackyLoading : MelonPlugin
+    public class ModLoadSeparator : MelonPlugin
     {
-        public static MelonLogger.Instance MyLogger => new("WackyLoading", System.ConsoleColor.Cyan);
+        public static MelonLogger.Instance MyLogger => new("ModLoadSeparator", System.ConsoleColor.Cyan);
 
         internal static bool IsInVR = false;
 
