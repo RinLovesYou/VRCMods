@@ -9,6 +9,9 @@ Simple Mod that disables the Panic button keybind (shift + esc) on desktop, more
 a **Plugin** (goes into `/VRChat/Plugins/`) that lets you load specific mods only on Desktop or VR. It'll create two folders in your Mods folder called `VR` and `Desktop`. <br>
 As an example, you'd place IKTweaks into the VR folder, and something like CursorLockFix in Desktop.
 
+## Credits
+Thank you to [knah](https://github.com/knah) (i stole your Solution structure)
+
 ## Notice
 
 Modding VRChat is against TOS. I am not held responsible if you get banned for using any of these.
