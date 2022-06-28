@@ -1,9 +1,0 @@
-C:\Users\sarah\source\repos\VRCModsRin\VRCMods\Output\Debug\net472\CalmDown.dll
-C:\Users\sarah\source\repos\VRCModsRin\VRCMods\Output\Debug\net472\CalmDown.pdb
-C:\Users\sarah\source\repos\VRCModsRin\VRCMods\CalmDown\obj\Debug\net472\CalmDown.csproj.AssemblyReference.cache
-C:\Users\sarah\source\repos\VRCModsRin\VRCMods\CalmDown\obj\Debug\net472\CalmDown.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\sarah\source\repos\VRCModsRin\VRCMods\CalmDown\obj\Debug\net472\CalmDown.AssemblyInfoInputs.cache
-C:\Users\sarah\source\repos\VRCModsRin\VRCMods\CalmDown\obj\Debug\net472\CalmDown.AssemblyInfo.cs
-C:\Users\sarah\source\repos\VRCModsRin\VRCMods\CalmDown\obj\Debug\net472\CalmDown.csproj.CoreCompileInputs.cache
-C:\Users\sarah\source\repos\VRCModsRin\VRCMods\CalmDown\obj\Debug\net472\CalmDown.dll
-C:\Users\sarah\source\repos\VRCModsRin\VRCMods\CalmDown\obj\Debug\net472\CalmDown.pdb
