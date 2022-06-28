@@ -6,7 +6,7 @@ namespace VRCMods
 {
     public class CalmDown : MelonMod
     {
-        public static MelonLogger.Instance MyLogger => new("MyMod", System.ConsoleColor.Cyan);
+        public static MelonLogger.Instance MyLogger => new("CalmDown", System.ConsoleColor.Cyan);
 
         private static MelonPreferences_Category CalmDownCat = MelonPreferences.CreateCategory("CalmDown");
         private static MelonPreferences_Entry<bool> Enabled = CalmDownCat.CreateEntry("Enable PanicButton suppression (Requires Restart)", true);
